@@ -1,0 +1,43 @@
+body .testButton {
+  height: 35px;
+  width: 35px;
+  border-radius: 10px;
+}
+body .testButton img {
+  width: 30px;
+  height: 30px;
+}
+body .testButton:hover {
+  background-color: #004F95;
+}
+body .topToolBar {
+  background-color: white;
+  box-shadow: 0px 0px 0px 0px white;
+}
+body .menuButton {
+  margin-left: 20px;
+  background-color: #004F95;
+}
+body .menuButton img {
+  width: 25px;
+}
+body .menuButtonSignUp {
+  margin-left: 20px;
+  background-color: #F78117;
+}
+body h3 {
+  color: #004F95;
+}
+body h2 {
+  color: #004F95;
+}
+body h1 {
+  color: #004F95;
+}
+body p {
+  font-weight: 700;
+  text-align: center;
+}
+body .textMain {
+  color: #004F95;
+}/*# sourceMappingURL=index.css.map */
